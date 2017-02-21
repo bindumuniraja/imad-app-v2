@@ -1,9 +1,9 @@
 console.log('Loading!');
-var element=document.getElementByid("main text");
+var element=document.getElementById("main text");
 element.innerHTML="New value"
 
 //moveimage//
-var img=document.getElementBy("madi");
+var img=document.getElementById("madi");
 ing.onclick=function() {
     ing.style.marginLeft='100px';
     
